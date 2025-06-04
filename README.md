@@ -17,19 +17,32 @@
 # Структура проекта
 
 assets/icons/
+
 ├── cat_paw.png
 lib/
+
 ├── main.dart
+
 ├── app.dart
+
 ├── models/
+
 │   └── cat_model.dart
+
 ├── repositories/
+
 │   └── cat_repository.dart
+
 ├── widgets/
+
 │   ├── reaction_button.dart
+
 │   └── cat_swipe_animation.dart
+
 └── screens/
+
     ├── cat_explorer_screen.dart
+    
     └── cat_details_screen.dart
 
 # Скриншоты приложения
