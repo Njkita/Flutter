@@ -58,7 +58,7 @@ lib/
 
 # Ссылка на скачивание актуальной версии APK:
 
-- https://drive.google.com/file/d/1W3lpE4ZSVXSo4xJA4dwsoOBfr2eyCNq-/view?usp=sharing
+- https://drive.google.com/file/d/1W3lpE4ZSVXSo4xJA4dwsoOBfr2eyCNq-/view?usp=drive_link
 
 # Скриншоты приложения
 
