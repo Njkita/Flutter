@@ -38,12 +38,11 @@ lib/
 │   ├── reaction_button.dart
 
 │   └── cat_swipe_animation.dart
-
 └── screens/
 
-    ├── cat_explorer_screen.dart
+   ├── cat_explorer_screen.dart
     
-    └── cat_details_screen.dart
+   └── cat_details_screen.dart
 
 # Скриншоты приложения
 
