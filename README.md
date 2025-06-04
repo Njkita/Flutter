@@ -29,6 +29,7 @@
 assets/icons/
 
 ├── cat_paw.png
+
 lib/
 
 ├── main.dart
